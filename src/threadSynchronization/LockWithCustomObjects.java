@@ -1,4 +1,4 @@
-package basicMultithreading;
+package threadSynchronization;
 
 public class LockWithCustomObjects {
 

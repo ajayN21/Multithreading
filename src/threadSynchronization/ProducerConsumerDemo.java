@@ -1,4 +1,4 @@
-package basicMultithreading;
+package threadSynchronization;
 
 import java.util.ArrayList;
 import java.util.List;
